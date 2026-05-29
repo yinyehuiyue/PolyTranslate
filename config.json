@@ -1,0 +1,11 @@
+{
+  "api_key_encrypted": "NApARylDF0wHVANIQ20BBAc=",
+  "provider": "OpenAI 兼容 (万能)",
+  "base_url": "https://api.openai.com/v1",
+  "model_name": "gpt-4o",
+  "style_preset": "无特定风格",
+  "custom_prompt": "",
+  "glossary_entries": {},
+  "safe_mode": false,
+  "first_run": true
+}

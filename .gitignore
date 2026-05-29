@@ -1,0 +1,40 @@
+# ===== 环境变量 & 敏感配置 =====
+.env
+.env.*
+*.env
+
+# ===== PyInstaller 构建产物 =====
+dist/
+build/
+*.spec
+
+# ===== 可执行文件 =====
+*.exe
+GameTranslator
+
+# ===== Python 缓存 =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===== 本地配置 & 日志 =====
+config.json
+error.log
+translation_progress.json
+crash_report.txt
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+
+# ===== 操作系统 =====
+.DS_Store
+Thumbs.db
+
+# ===== 私钥文件 =====
+*.pem
+*.key
+*.crt
+*.p12
